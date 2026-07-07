@@ -12,11 +12,13 @@ rg={
     }
 }
 stg={
+   stg1={
     name= "satyam-storage"
     location= "westus"
     resource_group_name="netflix-rg"
     account_tier= "Standard"
     account_replication_type= "GRS"
+}
 }
 
 vnet={
