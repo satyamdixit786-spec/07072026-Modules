@@ -13,7 +13,7 @@ rg={
 }
 stg={
    stg1={
-    name= "satyam-storage"
+    name= "satyamkalp"
     location= "westus"
     resource_group_name="netflix-rg"
     account_tier= "Standard"
