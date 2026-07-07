@@ -23,6 +23,7 @@ jobs:
         terraform_version: "1.14.6"
     - name: terraform commands
       run: |
+        cd Parent_module
         terraform init
         terraform validate
         terraform plan
